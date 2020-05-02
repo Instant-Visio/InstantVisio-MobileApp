@@ -135,8 +135,8 @@ android {
         applicationId "com.instantvisio"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 9
-        versionName "1.0.15"
+        versionCode 10
+        versionName "1.0.16"
         multiDexEnabled true
         resValue "string", "build_config_package", "com.instantvisio"
     }
